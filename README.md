@@ -48,7 +48,7 @@ python3 your_file_name.py
 | 1 | Variables, printing, input, math, strings | 8 |
 | 2 | If/else, loops, functions, error handling | 8 |
 | 3 | Lists, dictionaries, tuples, file I/O | 8 |
-| 4 | Classes, objects, modules, APIs | 7 |
+| 4 | Classes, objects, modules, APIs | 8 |
 | 5 | Web apps (Flask), databases (SQLite), HTML basics | 6 |
 | 6 | Capstone projects combining everything | 3 |
 

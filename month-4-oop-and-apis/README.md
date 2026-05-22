@@ -14,6 +14,7 @@ This is the "level up" month. You'll learn how professional code is organized
 | 05 | Recipe Finder | Working with real API data |
 | 06 | CLI Task Manager | Modules, pip, argparse (command-line tools) |
 | 07 | Automated File Organizer | os module, real-world automation |
+| 08 | Blue Light Scheduler | Real API, datetime, building a night-mode schedule |
 
 ## Key Concepts
 
