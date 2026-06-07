@@ -1,0 +1,4 @@
+# Local database created at runtime — don't commit it
+resale.db
+__pycache__/
+*.pyc

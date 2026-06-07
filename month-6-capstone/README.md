@@ -10,6 +10,7 @@ projects that combine skills from all previous months.
 | 01 | Personal Finance Dashboard | Flask, SQLite, APIs, Charts, CRUD |
 | 02 | Habit Tracker | Flask, SQLite, JavaScript, Data Visualization |
 | 03 | Full-Stack Project of YOUR Choice | Everything! |
+| 04 | Resale Appreciation Analyzer | Flask, SQLite, Sorting, Percentage Math |
 
 ## What Makes These Different
 
